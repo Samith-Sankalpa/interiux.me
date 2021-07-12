@@ -1,0 +1,50 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.navCus a {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.subTopic h2 {
+  /*padding: 40px;*/
+  position: absolute;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31.25px;
+  line-height: 31px;
+  text-align: justify;
+}
+
+/* explore.html */
+
+.subTopic h2 {
+  margin-top: 50px;
+}
+.relatedRead img {
+  height: 220px;
+  margin-bottom: 40px;
+}
+
+.relatedRead button {
+  margin-top: 40px;
+  background-color: #6079fe;
+}
+
+.relatedRead .card {
+  margin-top: 100px;
+  height: 500px;
+}
+
+.relatedRead h4 {
+  font-size: 16px;
+  line-height: 25px;
+  text-align: justify;
+  letter-spacing: 0.05em;
+}
+
+.relatedRead button {
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
